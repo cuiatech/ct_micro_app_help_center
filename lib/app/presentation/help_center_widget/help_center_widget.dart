@@ -1,8 +1,8 @@
 // ignore_for_file: depend_on_referenced_packages
 
 import 'package:flutter/material.dart';
-import 'package:flut_micro_commons_dependencies/flut_micro_commons_dependencies.dart';
-import 'package:flut_micro_commons_ds/flut_micro_commons_ds.dart';
+import 'package:ct_micro_commons_dependencies/ct_micro_commons_dependencies.dart';
+import 'package:ct_micro_commons_ds/ct_micro_commons_ds.dart';
 
 class HelpCenterWidget extends StatelessWidget {
   const HelpCenterWidget({super.key});
@@ -153,7 +153,7 @@ class CardChat extends StatelessWidget {
               children: [
                 Image.asset(
                   "/assets/images/virtual_assistant.png",
-                  package: 'flut_micro_commons_shared',
+                  package: 'ct_micro_commons_shared',
                   // width: 60,
                 ),
                 const SizedBox(width: 10),

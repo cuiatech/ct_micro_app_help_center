@@ -1,4 +1,4 @@
-library flut_micro_app_help_center;
+library ct_micro_app_help_center;
 
 /// A Calculator.
 class Calculator {
