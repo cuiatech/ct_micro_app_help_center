@@ -1,5 +1,3 @@
-// ignore_for_file: depend_on_referenced_packages
-
 import 'package:ct_micro_app_help_center/app/help_center_routers.dart';
 import 'package:ct_micro_commons_dependencies/ct_micro_commons_dependencies.dart';
 import 'package:flutter/material.dart';
